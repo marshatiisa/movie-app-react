@@ -1,4 +1,4 @@
-# Netflix Style Movie App
+# React Movie App 
 
 # Features
 Search bar for movies or TV shows
